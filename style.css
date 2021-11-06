@@ -1,0 +1,62 @@
+.logo-img{
+    width: 70px;
+    height: 35px;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+
+.icon-heading{
+    font-family: 'Abril Fatface', cursive;
+    margin-top: 6px;
+    font-size: 25px;
+    margin-right: 10px;
+    font-weight: bolder;
+}
+.a-tag{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bolder;
+}
+.a-tag:hover{
+    border: 1px solid rgba(0, 0, 0, 0.884);
+    border-radius: 10%;
+    background-color: rgb(8, 219, 219);
+    padding: 12px;
+    font-weight: bolder;
+    font-size: 15px;
+}
+.carousel-img{
+   border-radius: 10%;
+   
+   height: 550px;
+}
+.carousel-heading{
+    font-family: 'Abril Fatface', cursive;
+    font-weight: bolder;
+}
+.carousel-para{
+    font-family: 'Roboto Mono', monospace;
+}
+.cat-img-1{
+    height: 100px;
+    width: 50%;
+}
+.cat-img-2{
+    height: 100px;
+    width: 50%;
+}
+.cat-img-3{
+    height: 100px;
+    width: 50%;
+}
+.card-img1{
+    height: 300px;
+}
+.card-img2{
+    height: 300px;
+}
+.card-img3{
+    height: 300px;
+}
+.txtarea{
+    resize: none;
+}
